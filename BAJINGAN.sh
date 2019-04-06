@@ -21,7 +21,7 @@ cat asw.txt
 echo ""
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo "\033[32;1mAuthor : Mr.REP"
-echo "\033[37;1mFeat: Mr.IM81"
+echo "\033[37;1mFeat: Mr. Neell"
 echo "\033[35;1mversion Tools: 6"
 echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
 echo "\033[31;1mPlease For Subcribe Youtube:"
