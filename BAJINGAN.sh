@@ -1,9 +1,7 @@
 #!/system/xbin/bash
-#MauNgapainGblk?
+#MauNgapain?
 #DiRecodeGakBakalJadiinLuMastah
 #DiGantiAuthorGakBakalJadiinLuMaster
-#MikirMakeOtakGblk
-#BACOTKAUKONTOL
 clear
 cd module
 python2 kntl.py
